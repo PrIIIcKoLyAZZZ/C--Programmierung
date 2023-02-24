@@ -22,13 +22,13 @@ int main()
     std::cout << "----------------------------------\n";
 
     //Задание № 4
-    int matrix[3][3];
+    float matrix[3][3];
 
     for (int i = 0; i < 3; ++i) {
         std::cin >> matrix[i][0] >> matrix[i][1] >> matrix[i][2];
     }
 
-    Matrix(matrix, 5);
+    Matrix(matrix, 5.5);
 
     for (int i = 0; i < 3; ++i) {
         std::cout << matrix[i][0] << " " << matrix[i][1] << " " << matrix[i][2] << '\n';

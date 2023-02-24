@@ -24,7 +24,7 @@ void MoveCircle(int VectorX, int VectorY, int &x, int &y)
     y += VectorY;
 }
 
-void Matrix(int (&matrix)[3][3], int number)
+void Matrix(float (&matrix)[3][3], float number)
 {
     for (int i = 0; i < 3; ++i) {
         matrix[i][0] *= number;
