@@ -3,7 +3,7 @@
 
 int main()
 {
-    /*//Задание № 1
+    //Задание № 1
     float Number;
     std::cin >> Number;
     std::cout << Div(Number) << '\n';
@@ -19,7 +19,7 @@ int main()
     int VectorX = 5, VectorY = -9;
     MoveCircle(VectorX, VectorY, X, Y);
     std::cout << "X: " << X << " Y: " << Y << '\n';
-    std::cout << "----------------------------------\n";*/
+    std::cout << "----------------------------------\n";
 
     //Задание № 4
     int matrix[3][3];
