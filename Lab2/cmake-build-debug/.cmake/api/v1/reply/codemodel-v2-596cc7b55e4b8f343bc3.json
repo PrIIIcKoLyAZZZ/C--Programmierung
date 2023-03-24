@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C__Programmierung",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "C__Programmierung::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C__Programmierung-Debug-029969da9d66a6a4e54f.json",
+					"name" : "C__Programmierung",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FileHandler::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileHandler-Debug-b6390a6babb8966ccad7.json",
+					"name" : "FileHandler",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Maxim Bovt/CLionProjects/C--Programmierung/Lab2/cmake-build-debug",
+		"source" : "C:/Users/Maxim Bovt/CLionProjects/C--Programmierung/Lab2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,4 @@
+C:/Users/Maxim Bovt/CLionProjects/C--Programmierung/Lab2/cmake-build-debug/CMakeFiles/FileHandler.dir
+C:/Users/Maxim Bovt/CLionProjects/C--Programmierung/Lab2/cmake-build-debug/CMakeFiles/C__Programmierung.dir
+C:/Users/Maxim Bovt/CLionProjects/C--Programmierung/Lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Maxim Bovt/CLionProjects/C--Programmierung/Lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
